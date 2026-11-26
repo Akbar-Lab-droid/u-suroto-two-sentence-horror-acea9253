@@ -1,0 +1,1 @@
+I finally fixed the bug that had haunted our codebase for a year. Then I saw my own name in the commit history — dated three years before I joined.
